@@ -1,6 +1,6 @@
 # CHAT APPLICATION
 
-This is my personal project using **Javascript** and **PHP** to implement real-time chat app. 
+This is my personal project using **Javascript** and **PHP** to implement real-time chat app for self-taught objective. 
 - **AJAX** is used to serve for the real-time functionality.
 - **MySQL** through *xampp* to deal with database management.
 
